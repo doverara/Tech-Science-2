@@ -15,3 +15,9 @@
 4. As a group, what are you overall goals for the project? What strategies will you use to make sure you meet these goals?
 
 - Our overall goal for the project is to complete the assignment. We will break each step down and complete them. Have an overall fundation plan of what we need to accomplish.
+
+## 📍 Project Planning
+
+### Roles
+Araynah & Yihan - Send out weekly reminders for project goals that week and upcoming deadlines
+Everyone - Come up with questions to answer based off of for galaxy modeling. Along with useful data sets to use
