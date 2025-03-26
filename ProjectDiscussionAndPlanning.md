@@ -23,6 +23,9 @@
 - Everyone - Come up with questions to answer based off of for galaxy modeling. Along with useful data sets to use
 
 ### Short Term Goal
-- think about research questions
-- do research on galaxy
+- think about research questions - due on Monday (4/6)
+- do research on galaxy - due on Monday (4/6)
+- think about a timeline for this project - due on Monday (4/6)
 
+### first meeting
+- discord meeting, Sat (4/5) 8:00 pm
