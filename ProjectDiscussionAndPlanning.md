@@ -19,5 +19,5 @@
 ## 📍 Project Planning
 
 ### Roles
-Araynah & Yihan - Send out weekly reminders for project goals that week and upcoming deadlines
-Everyone - Come up with questions to answer based off of for galaxy modeling. Along with useful data sets to use
+- Araynah & Yihan - Send out weekly reminders for project goals that week and upcoming deadlines
+- Everyone - Come up with questions to answer based off of for galaxy modeling. Along with useful data sets to use
