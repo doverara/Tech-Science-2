@@ -1,3 +1,5 @@
+## Collaboration and Communication
+
 1. What form of communication will work best for all of your when you need to discuss your project and make decisions? For example, will you use Slack, Discord, text messages, email, in-person meetings etc.?
 
 - we will use Discord to communicate
