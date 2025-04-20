@@ -22,7 +22,7 @@ Can observable galaxy properties be leveraged to accurately predict galaxy subcl
 ## Team Contributions  
 - **Araynah D.:** Data ingestion, SVM modeling and evaluation, preprocessing and visualization code.  
 - **Palmer W.:** Confusion matrix and classification report analysis, slide preparation.  
-- **Katrina S.:** Random Forest modeling, feature importance extraction, code documentation.  
+- **Katrina S.:** Feature importance extraction, code documentation, heatmap.  
 - **Yihan W.:** Data visualization (distribution and sky maps), README and slides formatting.
 
 ## Future Work  
